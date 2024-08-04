@@ -11,7 +11,7 @@
         "search_provider": {
             "name": "Anna's Search",
             "search_url": "https://annas-archive.org/search?q={searchTerms}",
-            "keyword": "search",
+            "keyword": "@annas",
             "favicon_url": "icons/48.png",
             "is_default": false,
             "encoding": "UTF-8"
