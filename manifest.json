@@ -4,7 +4,7 @@
     "description": "Adds a search engine that searches Anna's Archive",
     "developer": {
         "name": "Redshift Team",
-        "url": ""
+        "url": "https://github.com/DiasBVAP/annas-search"
     },
     "version": "1.0",
     "chrome_settings_overrides": {
